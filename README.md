@@ -1,1 +1,1 @@
-A grade calculator with personalized needs to help through academic careers!
+A grade calculator made to fulfill personalized needs to help throughout academic careers!
